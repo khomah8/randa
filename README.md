@@ -1,3 +1,3 @@
 # randa
-r and a
-thanks to all colleagues💖
+r and a, 
+thanks to all my colleagues💖 
