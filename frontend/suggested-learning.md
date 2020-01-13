@@ -30,4 +30,10 @@ http://jigsaw.w3.org/css-validator
 make UI by HTML5 :
 - www.w3c.org/TR/html52/
 - https://google.github.io/styleguide/htmlcssguide.html
-- 
+- https://jsfiddle.net
+
+CSS essentials :
+- css3.0 samples http://css3clickchart.com/ 
+- Step-by-step website layout with CSS http://habrahabr.ru/post/202408/
+- CSS Selectors Game http://flukeout.github.io/ 
+- sample markup https://github.com/koldovsky/samplemarkup 
