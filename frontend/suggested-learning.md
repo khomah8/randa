@@ -3,7 +3,7 @@ general :
 - slides.zip []
 - www.freeCodeCamp.org (Mastering HTML/CSS/JavaScript in 800 Hours of Practice)
 - https://github.com/dypsilon/frontend-dev-bookmarks
-- 
+
 
 "Managing the Application Life Cycle" and intro :
 - http://tilda.education/courses/web-design/basicsteps/
@@ -27,10 +27,12 @@ http://jigsaw.w3.org/css-validator
 • Create mockup for your website
 • Complete Try Git: www.try.github.io
 
+
 make UI by HTML5 :
 - www.w3c.org/TR/html52/
 - https://google.github.io/styleguide/htmlcssguide.html
 - https://jsfiddle.net
+
 
 CSS essentials :
 - css3.0 samples http://css3clickchart.com/ 
