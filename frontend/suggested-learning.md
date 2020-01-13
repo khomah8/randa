@@ -37,3 +37,4 @@ CSS essentials :
 - Step-by-step website layout with CSS http://habrahabr.ru/post/202408/
 - CSS Selectors Game http://flukeout.github.io/ 
 - sample markup https://github.com/koldovsky/samplemarkup 
+- http://learnlayout.com/ , http://viget.com/inspire/make-a-flippin-3d-countdown-with-css-and-javascript ,  https://ihatetomatoes.net/one-page-scroll-with-animations/
