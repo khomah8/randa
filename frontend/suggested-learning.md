@@ -11,7 +11,7 @@ general :
 http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/ & 
 http://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/
 - tools 
-www.mockups.com, www.NinjaMock.com, cloud9 www.c9.io, 
+www.mockups.com [www.youtube.com/watch?v=OodB6Yz1yxU], www.NinjaMock.com, cloud9 www.c9.io, 
 40 Best HTML Editors for Web Developers:
 http://devzum.com/2015/05/19/40-best-html-editors-for-web-developers/
 - validators 
