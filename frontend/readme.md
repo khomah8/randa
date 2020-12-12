@@ -13,15 +13,14 @@ www.mockups.com [www.youtube.com/watch?v=OodB6Yz1yxU], www.NinjaMock.com, cloud9
 40 Best HTML Editors for Web Developers:
 http://devzum.com/2015/05/19/40-best-html-editors-for-web-developers/
 - validators 
-• HTML validator:
-http://validator.w3.org
-• CSS validator:
-http://jigsaw.w3.org/css-validator
+  - HTML validator: http://validator.w3.org
+  - CSS validator: http://jigsaw.w3.org/css-validator
 - http://howtocodeinhtml.com
 - http://w3schools.com
 - www.overapi.com/html
 - www.websitesetup.org/html5-cheat-sheet/
--- Homework
+
+**-- Homework :**
 • Create mockup for your website
 • Complete Try Git: www.try.github.io
 
