@@ -21,8 +21,8 @@ http://devzum.com/2015/05/19/40-best-html-editors-for-web-developers/
 - www.websitesetup.org/html5-cheat-sheet/
 
 **-- Homework :**
-• Create mockup for your website
-• Complete Try Git: www.try.github.io
+- Create mockup for your website
+- Complete Try Git: www.try.github.io
 
 
 **make UI by HTML5 :**
@@ -36,4 +36,4 @@ http://devzum.com/2015/05/19/40-best-html-editors-for-web-developers/
 - Step-by-step website layout with CSS http://habrahabr.ru/post/202408/
 - CSS Selectors Game http://flukeout.github.io/ 
 - sample markup https://github.com/koldovsky/samplemarkup 
-- http://learnlayout.com/ , http://viget.com/inspire/make-a-flippin-3d-countdown-with-css-and-javascript ,  https://ihatetomatoes.net/one-page-scroll-with-animations/
+- http://learnlayout.com/ , http://viget.com/inspire/make-a-flippin-3d-countdown-with-css-and-javascript , https://ihatetomatoes.net/one-page-scroll-with-animations/
