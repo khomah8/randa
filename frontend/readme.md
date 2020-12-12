@@ -1,11 +1,9 @@
 general :
-- MOACMTAHTML5ApplicationsDevFundamentals98375.pdf []
-- slides.zip []
 - www.freeCodeCamp.org (Mastering HTML/CSS/JavaScript in 800 Hours of Practice)
 - https://github.com/dypsilon/frontend-dev-bookmarks
 
 
-"Managing the Application Life Cycle" and intro :
+**"Managing the Application Life Cycle" and intro :**
 - http://tilda.education/courses/web-design/basicsteps/
 - how do browsers works 
 http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/ & 
@@ -28,13 +26,13 @@ http://jigsaw.w3.org/css-validator
 • Complete Try Git: www.try.github.io
 
 
-make UI by HTML5 :
+**make UI by HTML5 :**
 - www.w3c.org/TR/html52/
 - https://google.github.io/styleguide/htmlcssguide.html
 - https://jsfiddle.net
 
 
-CSS essentials :
+**CSS essentials :**
 - css3.0 samples http://css3clickchart.com/ 
 - Step-by-step website layout with CSS http://habrahabr.ru/post/202408/
 - CSS Selectors Game http://flukeout.github.io/ 
