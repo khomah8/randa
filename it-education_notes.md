@@ -1,5 +1,5 @@
 for frontend course:
-- www.mockUp.com 
+- www.mockUp.com /becames www.pearson.com/
 - www.NinjaMock.com
 - cloud9 IDE
 - 
