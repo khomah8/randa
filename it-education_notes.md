@@ -1,4 +1,4 @@
-resources for front end course:
+for frontend course:
 - www.mockUp.com 
 - www.NinjaMock.com
 - cloud9 IDE
@@ -10,5 +10,6 @@ QA,QC learning:
   - java
   - python 
   - ruby 
-- 7principles (?)
+- 7principles 
 - functional/ nonfunctional 
+- #epam kulikov book
