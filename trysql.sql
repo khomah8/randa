@@ -1,9 +1,5 @@
 -- sql INLINE comment 
 
-/* sql 
-	multiline comment
-*/
-
 CREATE TABLE Persons
 (
 PersonID int,
@@ -12,3 +8,7 @@ FirstName varchar(255),
 Address varchar(255),
 City varchar(255)
 );
+
+/* sql 
+	multiline comment
+*/
