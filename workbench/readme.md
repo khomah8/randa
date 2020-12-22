@@ -5,3 +5,5 @@ practial excersises at Tryit Editor of **w3schools** {great respect!} on HTML/CS
 - (select) https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_distinct
 - (insert) https://www.w3schools.com/sql/trysql.asp?filename=trysql_insert_colname
 - (update) https://www.w3schools.com/sql/trysql.asp?filename=trysql_update_2
+
+- (case) https://www.w3schools.com/sql/trymysql.asp?filename=trysql_case 
