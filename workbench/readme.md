@@ -15,11 +15,11 @@ practial excersises at Tryit Editor of **w3schools** {great respect!} on HTML/CS
 
 2- (Stored-Procedures) 
 
---- create 
+--- Create : 
   CREATE PROCEDURE procedure_name
   AS
   sql_statement
   GO; 
 
---- Execute a Stored Procedure
+--- Execute a Stored Procedure : 
 EXEC procedure_name; 
