@@ -1,4 +1,4 @@
--- tryMySQL CASE
+-- tryMySQL CASE = thanks to w3schools 
 
 SELECT avg(Quantity), 
 case 
@@ -7,5 +7,5 @@ case
 end as "Verdict Text" 
 FROM OrderDetails;
 
--- https://www.w3schools.com/sql/trymysql.asp?filename=trysql_case
- 
+/* go to execute  https://www.w3schools.com/sql/trymysql.asp?filename=trysql_case 
+*/ 
