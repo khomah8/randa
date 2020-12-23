@@ -13,13 +13,4 @@ practial excersises at Tryit Editor of **w3schools** {great respect!} on HTML/CS
 
 1 - (IFNULL(), ISNULL(), COALESCE(), and NVL() Functions) https://www.w3schools.com/sql/sql_isnull.asp { mySQL, SQL Server, MS Access, Oracle cases }
 
-2- (Stored-Procedures) 
-
---- Create : 
-  CREATE PROCEDURE procedure_name
-  AS
-  sql_statement
-  GO; 
-
---- Execute a Stored Procedure : 
-EXEC procedure_name; 
+2- (Stored-Procedures) https://www.w3schools.com/sql/sql_stored_procedures.asp [ create execute params ]
