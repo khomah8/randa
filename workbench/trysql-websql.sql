@@ -9,5 +9,4 @@ Address varchar(255),
 City varchar(255)
 );
 
-/* sql example of webSQL from web-page sourcecode 
-*/
+-- sql example of webSQL from web-page sourcecode 
