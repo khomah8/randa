@@ -14,3 +14,6 @@ practial excersises at Tryit Editor of **w3schools** {great respect!} on HTML/CS
 1 - (IFNULL(), ISNULL(), COALESCE(), and NVL() Functions) https://www.w3schools.com/sql/sql_isnull.asp { mySQL, SQL Server, MS Access, Oracle cases }
 
 2- (Stored-Procedures) https://www.w3schools.com/sql/sql_stored_procedures.asp [ create execute params ]
+
+3- (INSERT INTO SELECT) try on  
+  https://www.w3schools.com/sql/trysql.asp?filename=trysql_insert_into_select  &  https://www.w3schools.com/sql/trysql.asp?filename=trysql_insert_into_select2 
