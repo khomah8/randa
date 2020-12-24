@@ -6,3 +6,7 @@ FROM Suppliers
 INNER JOIN Customers ON Suppliers.supplierName = Customers.CustomerName;
 
 -- Number of Records: 32
+
+-- then do Inserting 
+INSERT INTO Customers (CustomerName, City, Country)
+SELECT SupplierName, City, Country FROM Suppliers;
