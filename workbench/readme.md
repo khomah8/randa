@@ -16,4 +16,4 @@ practic in Tryit Editor of **w3schools** { great respect! } on HTML/CSS; SQL
 
 2- (Stored-Procedures) https://www.w3schools.com/sql/sql_stored_procedures.asp [ create execute params ]
 
-3- 
+3- (select INTO [IN]) https://www.w3schools.com/sql/sql_select_into.asp { into-new-table } 
