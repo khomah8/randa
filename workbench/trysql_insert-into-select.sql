@@ -16,6 +16,7 @@ SELECT SupplierName, City, Country FROM Suppliers;
 SELECT Suppliers.Country as supplCountry, Suppliers.City as supplCity, Suppliers.supplierName, Customers.CustomerName, 
 Customers.Country as custCountry, Customers.City as custCity, Customers.PostalCode, CustomerID  
 FROM Suppliers 
+--string does works too as: FROM [Suppliers] 
 JOIN Customers ON Suppliers.supplierName = Customers.CustomerName ORDER BY CustomerID;
 /*
 Number of Records: 61
