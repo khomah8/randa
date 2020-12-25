@@ -13,7 +13,8 @@ INSERT INTO Customers (CustomerName, City, Country)
 SELECT SupplierName, City, Country FROM Suppliers;
 
 -- 3) resulting comparision 
-SELECT Suppliers.Country as supplCountry, Suppliers.City as supplCity, Suppliers.supplierName, Customers.CustomerName, Customers.Country as custCountry, Customers.City as custCity, Customers.PostalCode, CustomerID  
+SELECT Suppliers.Country as supplCountry, Suppliers.City as supplCity, Suppliers.supplierName, Customers.CustomerName, 
+Customers.Country as custCountry, Customers.City as custCity, Customers.PostalCode, CustomerID  
 FROM Suppliers 
 JOIN Customers ON Suppliers.supplierName = Customers.CustomerName ORDER BY CustomerID;
 /*
