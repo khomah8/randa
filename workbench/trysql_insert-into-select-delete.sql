@@ -22,7 +22,18 @@ JOIN Customers ON Suppliers.supplierName = Customers.CustomerName ORDER BY Custo
 Number of Records: 61
 */
 
--- 4) new comparision Customers VS Suppliers 
+-- 4) new comparision of updated Customers VS Suppliers 
 SELECT Suppliers.ContactName as ACN , Customers.ContactName as CCN
 FROM Suppliers
 JOIN Customers ON Customers.city = Suppliers.city;
+/*
+may be groupped by Country too 
+*/
+
+-- 5) possibly carefully use with strong sure in correctness of WHERE condition(s) 
+DELETE FROM table_name WHERE condition;
+/*
+Note:  Be careful when deleting records in a table! Notice the WHERE clause in the DELETE statement. 
+The WHERE clause specifies which record(s) should be deleted. 
+  If you omit the WHERE clause, all records in the table will be deleted !!
+*/
