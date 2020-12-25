@@ -8,7 +8,7 @@ INNER JOIN Customers ON Suppliers.supplierName = Customers.CustomerName;
 Number of Records: 32
 */ 
 
--- 2) then do Inserting 
+-- 2) then do Inserting !smth WRONG 
 INSERT INTO Customers (CustomerName, City, Country)
 SELECT SupplierName, City, Country FROM Suppliers;
 
@@ -19,3 +19,8 @@ JOIN Customers ON Suppliers.supplierName = Customers.CustomerName ORDER BY Custo
 /*
 Number of Records: 61
 */
+
+-- 4) new comparision Customers VS Suppliers 
+SELECT Suppliers.ContactName as ACN , Customers.ContactName as CCN
+FROM Suppliers
+JOIN Customers ON Customers.city = Suppliers.city;
