@@ -40,3 +40,15 @@ Note:  Be careful when deleting records in a table! Notice the WHERE clause in t
 The WHERE clause specifies which record(s) should be deleted. 
   If you omit the WHERE clause, all records in the table will be deleted !!
 */
+
+-- 6) check-out resulting [Customers] after step 2), it should looks like 
+SELECT * FROM [Customers] where postalcode IS NULL; 
+/*
+Number of Records: 29
+CustomerID	CustomerName	ContactName	Address	City	PostalCode	Country
+92	Exotic Liquid	null	null	Londona	null	UK
+93	New Orleans Cajun Delights	null	null	New Orleans	null	USA
+94	Grandma Kelly's Homestead	null	null	Ann Arbor	null	USA
+95	Tokyo Traders	null	null	Tokyo	null	Japan
+...
+*/
