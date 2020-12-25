@@ -8,9 +8,12 @@ INNER JOIN Customers ON Suppliers.supplierName = Customers.CustomerName;
 Number of Records: 32
 */ 
 
--- 2) then do Inserting !smth WRONG 
+-- 2) then do Inserting  
 INSERT INTO Customers (CustomerName, City, Country)
 SELECT SupplierName, City, Country FROM Suppliers;
+/*
+You have made changes to the database. Rows affected: 29
+*/
 
 -- 3) resulting comparision 
 SELECT Suppliers.Country as supplCountry, Suppliers.City as supplCity, Suppliers.supplierName, Customers.CustomerName, 
