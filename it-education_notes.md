@@ -1,7 +1,7 @@
-for frontend course:
-- www.mockUp.com /becames www.pearson.com/
-- www.NinjaMock.com
-- https://flukeout.github.io/ { CSS Dinner game }
+for frontend course(s):
+- www.mockUp.com { becames www.pearson.com }
+- www.NinjaMock.com 
+- www.flukeout.github.io/ { CSS Dinner game }
 
 QA,QC learning:
 - scripts on 
