@@ -1,5 +1,5 @@
-## some __inspiring__ repos of developers found here, on GitHub :) 
-(someone are familiar to me, and most - not so) 
+## some `inspiring` repos of developers found here, on GitHub :) 
+(most of them are NOT familiar to me before) 
 1) http://jhcloos.github.io/ <--> http://jhcloos.com/
-2) 
-3) 
+2and most ) 
+3)
