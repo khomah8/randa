@@ -1,4 +1,4 @@
-#  for good mood for all (and friends too)  🎶 
+#  for good mood for all (and friends too)  🎶  clicking-on-(sound)cloud(s)  
 - https://soundcloud.com/goldrybluszco/do-the-splatford-split
 - https://soundcloud.com/imogenheap/tinyhuman
   - https://soundcloud.com/imogenheap/thehappysong
@@ -8,6 +8,7 @@
   - https://soundcloud.com/noah-and-the-whale/give-it-all-back
 - https://soundcloud.com/crookers/bloc-party-the-love-within-crookers-remix
 - https://soundcloud.com/blocparty/truth-jerome-lol-remix
+- https://soundcloud.com/susannesundfor/kamikaze-maps-remix
 - 
 
 ##  and good wood  🌲 
