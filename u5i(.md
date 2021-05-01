@@ -9,7 +9,8 @@
 - https://soundcloud.com/crookers/bloc-party-the-love-within-crookers-remix
 - https://soundcloud.com/blocparty/truth-jerome-lol-remix
 - https://soundcloud.com/susannesundfor/kamikaze-maps-remix
-  - https://soundcloud.com/susannesundfor/sets/delirious-remixes
+  - https://soundcloud.com/susannesundfor/sets/delirious-remixes { 3 remixes }
+  - https://soundcloud.com/susannesundfor/delirious-i-break-horses-remix-1
   - 
 - 
 
