@@ -12,6 +12,7 @@
   - https://soundcloud.com/susannesundfor/sets/delirious-remixes { 3 remixes }
   - https://soundcloud.com/susannesundfor/delirious-i-break-horses-remix-1 { electric space-like }
   - https://soundcloud.com/susannesundfor/fade-away-big-black-delta-remix { light bells } 
+  - https://soundcloud.com/susannesundfor/susanne-sundfor-white-foxes-mwc-remix { echo-spaced } 
   - 
 - 
 
