@@ -19,6 +19,7 @@
   - https://soundcloud.com/royksopp/thank-you { melodic soft electro } 
   - https://soundcloud.com/denizkoyumusic/royksopp-robyn-do-it-again-deniz-koyu-remix { rhytmed electro }  
 - https://soundcloud.com/katemiller-music/fortify { calm rythm }
+- https://soundcloud.com/oscurochill/too-long-feat-mirror-signal { melodic electro vibe } 
 - 
 
 ##  and good wood  🌲 
