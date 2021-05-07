@@ -1,4 +1,4 @@
-#  for good mood for all (and friends too)  🎶  sound made-it-right  
+#  for good mood of all (and friends too)  🎶  sound made-it-right 
 - https://soundcloud.com/goldrybluszco/do-the-splatford-split
 - https://soundcloud.com/imogenheap/tinyhuman
   - https://soundcloud.com/imogenheap/thehappysong
