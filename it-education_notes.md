@@ -9,6 +9,11 @@ QA,QC learning:
   - java
   - python 
   - ruby 
+ 
 - 7principles 
 - functional/ nonfunctional 
 - #epam kulikov book
+
+for-OlexiiD : 
+- around PHP { including https://github.com/laravel/framework / https://laracasts.com/ }
+- 
